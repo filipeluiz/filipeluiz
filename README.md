@@ -12,4 +12,4 @@ console.log(developer)
 ```
 
 ![filipeluiz github stats](https://github-readme-stats.vercel.app/api?username=filipeluiz&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipeluiz&layout=compact&langs_count=7&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipeluiz&layout=compact&langs_count=7&theme=dark)

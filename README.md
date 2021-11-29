@@ -1,7 +1,7 @@
 ``` js
 const developer = {
     "name": "Filipe Luiz",
-    "who": "I'm deaf, self-taught, JavaScript developer and studying computer science.",
+    "who": "I'm deaf, self-taught, developer and studying computer science.",
     "profiles": {
         "linkedIn": "https://www.linkedin.com/in/ffilipeluiz",
         "twitter": "https://twitter.com/filipelluiz"
